@@ -1,4 +1,4 @@
 hello
 this is using append
 new file
-another new
+another ne
